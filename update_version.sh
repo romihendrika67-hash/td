@@ -1,4 +1,5 @@
-#!/usr/bin/env bash
+ renud sped 300
+ #!/usr/bin/env bash
 cd $(dirname $0)
 
 COMMIT_FILES="example/cpp/CMakeLists.txt example/uwp/extension.vsixmanifest example/uwp/Telegram.Td.UWP.nuspec example/web/tdweb/package.json example/web/tdweb/package-lock.json README.md td/telegram/OptionManager.cpp"
